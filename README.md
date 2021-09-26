@@ -1,4 +1,4 @@
-# Example App Backend
+# Express API
 
 > Using Node, Express 
 
